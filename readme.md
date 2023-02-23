@@ -1,6 +1,9 @@
 To investigate how to debug typescript with VSCode.
 
-Tutorial Link: https://code.visualstudio.com/docs/typescript/typescript-tutorial
+Tutorial Link:
+
+- https://code.visualstudio.com/docs/typescript/typescript-tutorial
+- https://code.visualstudio.com/docs/typescript/typescript-debugging
 
 Prerequisites:
 
@@ -11,9 +14,9 @@ First time setup:
 
 - `git init`
 - .gitignore
-- Typescript compiler: `npm install typescript`
+- Typescript compiler: `npm install -g typescript`
 
 Setup:
 
 - `npm i`
-- ` ./node_modules/typescript/bin/tsc` to transpile
+- `tsc` to transpile
