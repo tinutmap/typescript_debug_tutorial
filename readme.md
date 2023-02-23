@@ -16,3 +16,4 @@ First time setup:
 Setup:
 
 - `npm i`
+- ` ./node_modules/typescript/bin/tsc` to transpile
